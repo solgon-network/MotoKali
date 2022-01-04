@@ -1,1 +1,7 @@
 # MotoKali
+
+ARM64SHA256sum
+7579173bb7e4394ed2e2c32087c09c7bada57eee92184b8e940a2c4dd45c2525
+Generic ARM64
+torrent
+sum
